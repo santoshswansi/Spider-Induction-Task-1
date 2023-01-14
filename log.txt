@@ -1,0 +1,42 @@
+commit 1101c4acf6dc86c913f61abfeabf2ff0cdf56f43
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:43:35 2023 +0530
+
+    Added: commit6_spider.txt file
+
+commit 79264c996212e021a402c4595720fba487eb0f38
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:41:54 2023 +0530
+
+    Added: commit5_spider.txt file
+
+commit 814fcc4ce28b1624fc9f9ab4134cfe1c2c78e527
+Merge: 416f1a7 9a14717
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:34:10 2023 +0530
+
+    Merge branch 'Develop'
+
+commit 9a14717fab281808a282559b47493d4bcf67328d
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:30:17 2023 +0530
+
+    Added: commit4_Develop.txt
+
+commit 416f1a72839ae85b6a86914831d60a838478e940
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:28:26 2023 +0530
+
+    Added: commit2_main.txt
+
+commit 42bacaf473e06b3fe80fc8efd9d3ea04e253af51
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:25:10 2023 +0530
+
+    Added: commit2_Develop.txt file
+
+commit d751bb65942ce7c407c336b513d9009e6ba56d2e
+Author: santoshswansi <santoshswansi091@gmail.com>
+Date:   Thu Jan 12 20:22:01 2023 +0530
+
+    initial commit
